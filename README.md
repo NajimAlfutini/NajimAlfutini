@@ -1,6 +1,5 @@
 ## Hi, I am Najim 💫.
-🧑‍💻 A computer Engineering student at the University of Bahrain, on the cusp of graduating.<br/>
-**Working on** An IoT project utilizing AWS services to create a connected, smart solution.<br/>
+🧑‍💻 A computer Engineering graduate from the University of Bahrain.<br/>
 **Learning:** Machine learning, JavaScript.<br/>
 **Talk to me about** Java, C, Python, web dev, software design, AI, ML, and embedded systems.<br/>
 Off-screen, I'm all about art, gym, and video games!<br/>
