@@ -1,4 +1,4 @@
-## Hi, I am Najim 💫.
+## Hi, I am Najim.
 🧑‍💻 A computer Engineering graduate from the University of Bahrain.<br/>
 **Learning:** Machine learning, JavaScript.<br/>
 **Talk to me about** Java, C, Python, web dev, software design, AI, ML, and embedded systems.<br/>
